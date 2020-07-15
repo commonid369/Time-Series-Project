@@ -81,5 +81,5 @@ Here are some of the final best-fit predictions for the clusters.
 
 This project was jointly done by the following team members:  
   
-![Saksham Gupta](https://github.com/thesakshamgupta/)
+![Saksham Gupta](https://github.com/thesakshamgupta/)  
 ![Aditya Singh](https://github.com/aditya274/)
